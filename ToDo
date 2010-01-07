@@ -1,0 +1,18 @@
+== Bootstrap
+
+- Helen makes github repo
+
+== Game
+
+- Make github repo
+- Set up makefile to make this a standalone js app
+- Use jQuery
+
+- Make the grid be the size of the browser
+- Support line drawing and line erasing input
+- Have a start/stop button
+
+- Use lightbox for option
+- Set a life death rules option
+- Set a wrap option
+- Set a cell size option
